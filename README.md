@@ -23,6 +23,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-![Chandu639's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandu639&show_icons=true&theme=tokyonight)
